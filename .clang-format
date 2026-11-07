@@ -1,0 +1,9 @@
+Language: Cpp
+BasedOnStyle: Google
+Standard: Latest
+UseTab: Never
+IndentWidth: 2
+BreakBeforeBraces: Attach
+AlignAfterOpenBracket: Align
+ColumnLimit: 80
+SortIncludes: CaseSensitive
